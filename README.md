@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 | Category       | Technologies |
 |----------------|-------------|
-| **Languages**  |  C#, Java |
+| **Languages**  | JavaScript, Python, C#, Java |
 | **Backend**    | Node.js, Express, .NET Core, REST APIs |
 | **Database**   | MongoDB, MySQL |
 | **Frontend**   | React, HTML, CSS |
@@ -28,7 +28,7 @@
 ### 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimliakat17@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ibrahim-liaqat-94b2022b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-liaqat-94b2022b1)
 
 ---
 
