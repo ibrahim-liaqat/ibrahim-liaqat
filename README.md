@@ -11,8 +11,6 @@
 
 I am a Software Engineer and Full Stack Developer with a degree in Software Engineering from **FAST NUCES**. I build backend systems, REST APIs, and full stack web applications using the MERN stack. I focus on writing clean code, designing good database structures, and using proper design patterns.
 
-**Looking for Associate Software Engineer / Software Engineer roles.**
-
 </div>
 
 <br/>
@@ -41,7 +39,7 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=888888&currStreakLabel=888888" />
+<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&stroke=888888&ring=888888&fire=888888&currStreakLabel=C9D1D9" />
 
 </div>
 
@@ -50,34 +48,6 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-liaqat&theme=minimal&hide_border=true&bg_color=0D1117&color=888888&line=888888&point=FFFFFF" width="100%" />
 
 </div>
-
-<br/>
-
-## About Me
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Name:** Ibrahim Liaqat
-**Role:** Software Engineer | Full Stack Developer
-**Education:** Software Engineering, FAST NUCES
-**Career Goal:** Associate Software Engineer / Software Engineer
-
-</td>
-<td width="50%" valign="top">
-
-**Current Focus**
-- Backend Development
-- MERN Stack
-- REST API Design
-- Docker
-- Database Design
-- Data Structures & Algorithms
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -112,62 +82,11 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 
 <br/>
 
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-**Trading Platform**
-A full stack trading platform with real-time data handling, secure transactions, and a scalable backend.
-
-`Node.js` `Express.js` `MongoDB` `React`
-
-[Repository](#)
-
-</td>
-<td width="50%">
-
-**AI Training Platform**
-A platform to manage and train AI models, built with a solid backend and REST APIs.
-
-`Node.js` `Express.js` `AI Integration` `Docker`
-
-[Repository](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Portfolio Website**
-A personal portfolio site showing my projects, skills, and experience.
-
-`React` `Tailwind CSS` `JavaScript`
-
-[Repository](https://github.com/ibrahim-liaqat/My-Portfolio)
-
-</td>
-<td width="50%">
-
-**Backend REST APIs**
-A set of production-ready REST APIs with authentication, validation, and clean architecture.
-
-`Node.js` `Express.js` `JWT` `MongoDB`
-
-[Repository](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-liaqat&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-liaqat&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" />
 
 </div>
 
