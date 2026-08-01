@@ -9,20 +9,8 @@
 
 <div align="center">
 
-Software Engineer and Full Stack Developer specializing in backend systems and the MERN stack.
-Graduate of Software Engineering, FAST NUCES.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Backend](https://img.shields.io/badge/Backend-1a1a1a?style=for-the-badge&logo=serverless&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a1a?style=for-the-badge&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+Software Engineer and Full Stack Developer with a strong foundation in backend systems and the MERN stack.
+Bachelor's in Software Engineering from FAST National University of Computer and Emerging Sciences (FAST NUCES).
 
 </div>
 
@@ -39,7 +27,7 @@ Graduate of Software Engineering, FAST NUCES.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&stroke=888888&ring=888888&fire=888888&currStreakLabel=C9D1D9&hide=currStreak" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&stroke=888888&ring=888888&fire=888888&hide_title=false&hide=currStreak" alt="GitHub Streak" />
 
 </div>
 
