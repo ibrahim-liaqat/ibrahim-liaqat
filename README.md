@@ -9,7 +9,8 @@
 
 <div align="center">
 
-I am a Software Engineer and Full Stack Developer with a degree in Software Engineering from **FAST NUCES**. I build backend systems, REST APIs, and full stack web applications using the MERN stack. I focus on writing clean code, designing good database structures, and using proper design patterns.
+Software Engineer and Full Stack Developer specializing in backend systems and the MERN stack.
+Graduate of Software Engineering, FAST NUCES.
 
 </div>
 
@@ -19,7 +20,6 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 
 ![Backend](https://img.shields.io/badge/Backend-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
@@ -32,20 +32,20 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-liaqat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&icon_color=888888&text_color=C9D1D9&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-liaqat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&text_color=C9D1D9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-liaqat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&icon_color=888888&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-liaqat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&stroke=888888&ring=888888&fire=888888&currStreakLabel=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&stroke=888888&ring=888888&fire=888888&currStreakLabel=C9D1D9&hide=currStreak" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-liaqat&theme=minimal&hide_border=true&bg_color=0D1117&color=888888&line=888888&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-liaqat&theme=minimal&hide_border=true&bg_color=0D1117&color=888888&line=888888&point=FFFFFF" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -86,7 +86,7 @@ I am a Software Engineer and Full Stack Developer with a degree in Software Engi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-liaqat&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-liaqat&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 </div>
 
