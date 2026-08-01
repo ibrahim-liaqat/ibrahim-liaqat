@@ -9,6 +9,23 @@ I build reliable backend systems and full-stack applications, with a focus on cl
 
 ---
 
+## GitHub Statistics
+
+<div align="center">
+
+<!-- Lifetime Stats & Streak Cards (Deep Dark Green Theme) -->
+
+<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&background=0A1F12&border=1B4D2E&stroke=23D160&ring=23D160&fire=23D160&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=23D160&sideLabels=23D160&dates=8B949E&hide_border=false" alt="GitHub Streak" height="165" />
+
+<br /><br />
+
+<!-- 1-Year (365-Day) Contribution History Graph in Rich Dark Green -->
+<img src="https://ghchart.rshah.org/1b4d2e/ibrahim-liaqat" alt="Ibrahim's 1-Year Contribution History" width="100%" />
+
+</div>
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -41,25 +58,13 @@ I build reliable backend systems and full-stack applications, with a focus on cl
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=default&hide_border=true&background=FFFFFF&stroke=1a1a1a&ring=333333&fire=333333&hide=currStreak" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-liaqat&theme=github-light&hide_border=true&bg_color=ffffff&color=1a1a1a&line=333333&point=1a1a1a" alt="Activity Graph" width="98%"/>
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimliakat17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-liaqat-94b2022b1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahim-liaqat.github.io/My-Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-0A1F12?style=for-the-badge&logo=gmail&logoColor=23D160)](mailto:ibrahimliakat17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1F12?style=for-the-badge&logo=linkedin&logoColor=23D160)](https://www.linkedin.com/in/ibrahim-liaqat-94b2022b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A1F12?style=for-the-badge&logo=googlechrome&logoColor=23D160)](https://ibrahim-liaqat.github.io/My-Portfolio/)
 
 </div>
 
