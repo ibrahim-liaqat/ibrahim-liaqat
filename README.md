@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ibrahim+Liaqat;Software+Engineer;Backend+%7C+MERN+Stack+Developer;Building+Scalable+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ibrahim+Liaqat;Software+Engineer;Backend+%7C+MERN+Stack+Developer;Building+Scalable+REST+APIs" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahimliaqat&label=Profile%20Views&color=3B82F6&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/ibrahimliaqat?label=Followers&color=3B82F6&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/ibrahimliaqat?label=Stars&color=3B82F6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-liaqat&label=Profile%20Views&color=555555&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/ibrahim-liaqat?label=Followers&color=555555&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/ibrahim-liaqat?label=Stars&color=555555&style=flat-square)
 
 </div>
 
@@ -27,12 +27,12 @@ Software Engineering graduate from **FAST NUCES**, focused on building reliable,
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=3B82F6)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=3B82F6)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=3B82F6)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=3B82F6)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=3B82F6)
-![Open Source](https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge&logo=github&logoColor=3B82F6)
+![Backend](https://img.shields.io/badge/Backend-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -127,7 +127,7 @@ A full-stack trading platform built with a focus on real-time data handling, sec
 
 `Node.js` `Express.js` `MongoDB` `React`
 
-[View Repository](#) • [Live Demo](#)
+[Repository](#)
 
 </td>
 <td width="50%">
@@ -137,7 +137,7 @@ A platform for managing and training AI models with a robust backend, RESTful se
 
 `Node.js` `Express.js` `AI Integration` `Docker`
 
-[View Repository](#) • [Live Demo](#)
+[Repository](#)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ A modern, responsive personal portfolio showcasing projects, skills, and profess
 
 `React` `Tailwind CSS` `JavaScript`
 
-[View Repository](#) • [Live Demo](#)
+[Repository](#)
 
 </td>
 <td width="50%">
@@ -159,7 +159,7 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 `Node.js` `Express.js` `JWT` `MongoDB`
 
-[View Repository](#) • [Documentation](#)
+[Repository](#)
 
 </td>
 </tr>
@@ -173,20 +173,20 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahimliaqat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimliaqat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-liaqat&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&icon_color=888888&text_color=C9D1D9&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-liaqat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=888888&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ibrahimliaqat&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&hide_border=true&background=0D1117&ring=888888&fire=888888&currStreakLabel=888888" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimliaqat&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-liaqat&theme=minimal&hide_border=true&bg_color=0D1117&color=888888&line=888888&point=FFFFFF" width="100%" />
 
 </div>
 
@@ -196,7 +196,7 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahimliaqat&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-liaqat&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 
 </div>
 
@@ -206,7 +206,9 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ibrahimliaqat_leetcode?theme=dark&font=baloo2&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=baloo2&ext=heatmap" />
+
+<sub>Replace <code>your_leetcode_username</code> with your actual LeetCode handle.</sub>
 
 </div>
 
@@ -226,10 +228,12 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=3B82F6)](https://github.com/ibrahimliaqat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/ibrahimliaqat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=3B82F6)](https://ibrahimliaqat.dev)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:ibrahim.liaqat@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-liaqat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+<sub>Add your LinkedIn, Portfolio, and Email links above.</sub>
 
 </div>
 
@@ -237,7 +241,7 @@ A collection of production-grade REST APIs featuring authentication, validation,
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ibrahimliaqat/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ibrahim-liaqat/count.svg)
 
 </div>
 
