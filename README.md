@@ -1,76 +1,62 @@
-<div align="center">
+# Ibrahim Liaqat
 
-# Hi, I'm Ibrahim Liaqat
 ### Software Engineer · FAST Graduate
 
 I build reliable backend systems and full-stack applications, with a focus on clean architecture, REST APIs, and scalable design.
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<!-- Lifetime Stats & Streak Cards (Deep Dark Green Theme) -->
-
-<img src="https://streak-stats.demolab.com?user=ibrahim-liaqat&theme=dark&background=0A1F12&border=1B4D2E&stroke=23D160&ring=23D160&fire=23D160&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=23D160&sideLabels=23D160&dates=8B949E&hide_border=false" alt="GitHub Streak" height="165" />
-
-<br /><br />
-
-<!-- 1-Year (365-Day) Contribution History Graph in Rich Dark Green -->
-<img src="https://ghchart.rshah.org/1b4d2e/ibrahim-liaqat" alt="Ibrahim's 1-Year Contribution History" width="100%" />
-
-</div>
 
 ---
 
 ## Tech Stack
 
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=cpp,java,cs,js&theme=dark)
-
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,html,css&theme=dark)
+![React](https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Three.js](https://img.shields.io/badge/-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark)
+![Node.js](https://img.shields.io/badge/-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-000000?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Java](https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/-000000?style=flat-square&logo=csharp&logoColor=239120)
+![MongoDB](https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 
-**Databases**
+**DevOps & Tools**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
-
-**DevOps**
-
-![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions&theme=dark)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
-
-**Currently Learning**
-
-![Currently Learning](https://skillicons.dev/icons?i=aws&theme=dark)
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0A1F12?style=for-the-badge&logo=gmail&logoColor=23D160)](mailto:ibrahimliakat17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1F12?style=for-the-badge&logo=linkedin&logoColor=23D160)](https://www.linkedin.com/in/ibrahim-liaqat-94b2022b1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A1F12?style=for-the-badge&logo=googlechrome&logoColor=23D160)](https://ibrahim-liaqat.github.io/My-Portfolio/)
-
-</div>
+![Docker](https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/-000000?style=flat-square&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
 
+## Projects
+
+| | |
+|---|---|
+| **[Stratify](https://github.com/Ahtesham-Shah999/Stratify-Ultimate-AI-Powered-Saas)** | **[Builders Pro](https://github.com/ibrahim-liaqat/Builders_Pro)** |
+| AI-powered platform for building and backtesting forex strategies, with a real-time news sentiment module scoring currency pairs. | Full-stack MERN marketplace connecting clients with verified construction builders, with real-time chat and email notifications. |
+| **[TextBridge](https://github.com/ibrahim-liaqat/Text_Bridge-Using-Design-Patterns-)** | **[AutoDeploy](https://github.com/ibrahim-liaqat/AutoDeploy)** |
+| Arabic text editor built on a three-layered architecture using Abstract Factory and DAO design patterns, with translation and lemmatization support. | Three-stage CI/CD pipeline using Jenkins and Tomcat on Linux, auto-triggered on every push to remove manual deployment steps. |
+| **[Topology](https://github.com/ibrahim-liaqat/topoloy-new-project)** | |
+| Three.js clone of the Topology website, recreating its 3D visual design and interactions. | |
+
+---
+
 <div align="center">
+
+### Contact
+
+[Email](mailto:ibrahimliakat17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrahim-liaqat-94b2022b1/) · [Portfolio](https://ibrahim-liaqat.github.io/My-Portfolio/)
 
 **Ibrahim Liaqat** · Software Engineer
 
